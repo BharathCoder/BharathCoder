@@ -1,0 +1,23 @@
+Tailwind CSS
+<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+after meta tag
+-----------------------------------------------------------
+Favicon
+next line after title
+<link rel="shortcut icon" type="image/jpg" href="Favicon_Image_Location"/>
+---------------------------------------------------
+Link to text
+<a href="url">Text DP</a>
+----------------------------------------------------------
+Link to Button
+<button onclick="window.location.href='url';">
+      Click Here
+    </button>
+--------------------------------------------------------------------
+link to text 2
+href=""
+-------------------------------------------------------------------
+unsplash-https://source.unsplash.com/720x600/?nature,water
+----------------------------------
+<a href="#" class="btn btn-info" role="button">Link Button</a>
+linked button
