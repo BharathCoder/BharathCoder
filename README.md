@@ -1,3 +1,2 @@
-- 👋 No Hi, I’m @BharathCoder
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JS, Backend, Python and Android Studio
+- 👋 Yo whatsup bro, I’m @BharathCoder
+- 🌱 <marquee>Still Learning</marquee>
